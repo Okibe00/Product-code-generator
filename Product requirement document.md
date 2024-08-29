@@ -1,4 +1,4 @@
-### User Story: Product Code System for Pharmaceutical Products
+# User Story: Product Code System for Pharmaceutical Products
 
 **Title:** Generate and Manage Product Codes for Pharmaceutical Items
 
